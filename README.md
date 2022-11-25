@@ -11,5 +11,5 @@ Para utilizar esse projeto na sua máquina, por favor digite:<br>
 To use this project on your machine, please type:
 
 ```
-npm install react
+node app.js
 ```
